@@ -2,11 +2,11 @@
 A simple Timer made using XCode
 # Overview
 
-{As a software engineer I am seeking to understand more languages hence this app. }
+As a software engineer I am seeking to understand more languages hence this app. 
 
-{This app is a simple timer. It does basic things. It starts, stops and resets. The app is very simple to use. Simply tap on the start button and the timer will start. Tap on the stop and it'll stop. Once you tap on reset, it'll pop up a message asking if you want to reset the timer, and you can decide to reset or not.}
+This app is a simple timer. It does basic things. It starts, stops and resets. The app is very simple to use. Simply tap on the start button and the timer will start. Tap on the stop and it'll stop. Once you tap on reset, it'll pop up a message asking if you want to reset the timer, and you can decide to reset or not.
 
-{The reason I made this app was to practice what i had learned with programming with swift}
+The reason I made this app was to practice what i had learned with programming with swift
 
 
 [Software Demo Video](https://youtu.be/F70G4kSJlng)
@@ -19,7 +19,7 @@ I used the Objective C language to code the app.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+Make a list of websites that you found helpful in this project
 * [Hacking with Swift](https://www.hackingwithswift.com/articles/117/the-ultimate-guide-to-timer)
 * [Youtube](https://www.youtube.com/watch?v=3TbdoVhgQmE)
 
