@@ -23,8 +23,7 @@ I used the Objective C language to code the app.
 * [Youtube](https://www.youtube.com/watch?v=3TbdoVhgQmE)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 * I need to add an icon for the app
 * I need to add a background image
+* I could also add a display for laps each time i stop and start again. 
 
