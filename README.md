@@ -2,21 +2,20 @@
 A simple Timer made using XCode
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+{As a software engineer I am seeking to understand more languages hence this app. }
 
-{Provide a description of your app.  Describe how to use the app.}
+{This app is a simple timer. It does basic things. It starts, stops and resets. The app is very simple to use. Simply tap on the start button and the timer will start. Tap on the stop and it'll stop. Once you tap on reset, it'll pop up a message asking if you want to reset the timer, and you can decide to reset or not.}
 
-{Describe your purpose for creating this app.}
+{The reason I made this app was to practice what i had learned with programming with swift}
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/F70G4kSJlng)
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
+I used Xcode that is inbult into a Macbook. It comes with the install of the Mac
 
-{Describe the programming language that you used and any libraries.}
+I used the Objective C language to code the app. 
 
 # Useful Websites
 

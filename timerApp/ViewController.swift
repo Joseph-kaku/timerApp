@@ -56,7 +56,7 @@ class ViewController: UIViewController {
                    timerCounting = true
                    startStopButton.setTitle("STOP", for: .normal)
                    startStopButton.setTitleColor(UIColor.red, for: .normal)
-                timer = Timer.scheduledTimer(timeInterval: 0.0001, target: self, selector: #selector(timerCounter), userInfo: nil, repeats: true)
+                timer = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(timerCounter), userInfo: nil, repeats: true)
                    
                }
     }
