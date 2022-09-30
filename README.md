@@ -19,7 +19,6 @@ I used the Objective C language to code the app.
 
 # Useful Websites
 
-Make a list of websites that you found helpful in this project
 * [Hacking with Swift](https://www.hackingwithswift.com/articles/117/the-ultimate-guide-to-timer)
 * [Youtube](https://www.youtube.com/watch?v=3TbdoVhgQmE)
 
